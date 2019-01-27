@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  - Spawn
+  - Ground
+  - Hearth
+  - Blood
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - EmptyPlatform
+  - Player
+  - SolidPlatform
+  - Projectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: SolidPlatform
+    uniqueID: 44610553
+    locked: 0
+  - name: EmptyPlatform
+    uniqueID: 1811377477
+    locked: 0
+  - name: Player
+    uniqueID: 4086410157
+    locked: 0
+  - name: 
+    uniqueID: 817988073
+    locked: 0
+  - name: 
+    uniqueID: 2493940975
+    locked: 0

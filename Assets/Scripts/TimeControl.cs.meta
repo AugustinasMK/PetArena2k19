@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f9a8265566587bc4495d2a060bb33949
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - timer: {instanceID: 0}
+  - Health: {fileID: 3351143042305971621, guid: 034285d102b0c7e47bc9551d9ffa46e1,
+      type: 3}
+  - PowerUp: {fileID: 3351143042305971621, guid: 034285d102b0c7e47bc9551d9ffa46e1,
+      type: 3}
+  - Smash: {fileID: 3351143042305971621, guid: 034285d102b0c7e47bc9551d9ffa46e1, type: 3}
+  - p1: {instanceID: 0}
+  - p2: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
